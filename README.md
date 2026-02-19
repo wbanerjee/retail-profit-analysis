@@ -29,7 +29,7 @@ This project analyzes 5,000+ orders from the **Global Superstore dataset** to:
 
 ## Key Outcomes
 
--  Identified **Technology** as top profit driver (₹145K+)  
+-  Identified **Technology** as top profit driver ($145K+)  
 -  Found that **orders with ≥30% discount** incur **net losses**  
 -  Flagged **Furniture category** for low efficiency  
 -  Recommended **Central and West regions** for focused expansion  
