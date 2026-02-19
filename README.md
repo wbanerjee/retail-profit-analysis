@@ -7,7 +7,7 @@
 ## Problem Statement
 
 A large B2C retailer is experiencing inconsistent profitability across product categories and customer segments.  
-This project analyzes 10,000+ orders from the **Global Superstore dataset** to:
+This project analyzes 5,000+ orders from the **Global Superstore dataset** to:
 
 - Identify profit drivers and margin leaks  
 - Evaluate discount impact  
